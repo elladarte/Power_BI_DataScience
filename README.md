@@ -8,26 +8,23 @@
 
 ## Descrição
 
-### [Data Science Academy](https://www.datascienceacademy.com.br) - Repositorio dedicado as aulas e atividades do curso Power BI para DataScience ofertado pela DataScienceAcademy
+[Data Science Academy](https://www.datascienceacademy.com.br) - Repositorio dedicado as aulas e atividades do curso Power BI para DataScience ofertado pela DataScienceAcademy
+
+### Para ver os Dashboards criados ao longo do curso ==> [CLIQUE AQUI](https://github.com/elladarte/DashBoard/tree/master/DashBoards%20DSA)
 
 ## Lista de Conteudos abordados
-
-### [Capitulo 1](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap01) - Introdução
-### [Capitulo 2](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap02) - Primeiros passos com Power BI Desktop
-### [Capitulo 3](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap03) - Business Intelligence e Web Scraping no Power BI
-### [Capitulo 4](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap04) - Limpeza, Transformação, Séries Temporais, Agregação e Filtros
-### [Capitulo 5](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap05) - Modelagem, Relacionamento e DAX
-### [Capitulo 6](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap06) - Visualização de Dados e Dashboards Interativos
-### [Capitulo 7](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap07) - Microsoft Power BI e Banco de Dados Oracle
-### [Capitulo 8](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap08) - Microsoft Power BI Online e Power BI Mobile
-### [Capitulo 9](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap09) - Introdução a Machine Lerning
-### [Capitulo 10](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap10) - Microsoft Power BI e Linguagem R
-### [Capitulo 11](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap11) - Introdução à Estatistica Para Data Science - Parte 1
-### [Capitulo 12](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap12) - Introdução à Estatistica Para Data Science - Parte 2
-### [Capitulo 13](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap13) - Microsoft Power BI e Google Analytics
-### [Capitulo 14](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap14) - Microsoft Power BI e Apache Spark
-### [Bonus](https://github.com/elladarte/Power_BI_DataScience/tree/master/Bonus)
-
-https://www.datascienceacademy.com.br
-
-https://www.facebook.com/dsacademybr
+- [Capitulo 1](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap01) - Introdução
+- [Capitulo 2](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap02) - Primeiros passos com Power BI Desktop
+- [Capitulo 3](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap03) - Business Intelligence e Web Scraping no Power BI
+- [Capitulo 4](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap04) - Limpeza, Transformação, Séries Temporais, Agregação e Filtros
+- [Capitulo 5](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap05) - Modelagem, Relacionamento e DAX
+- [Capitulo 6](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap06) - Visualização de Dados e Dashboards Interativos
+- [Capitulo 7](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap07) - Microsoft Power BI e Banco de Dados Oracle
+- [Capitulo 8](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap08) - Microsoft Power BI Online e Power BI Mobile
+- [Capitulo 9](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap09) - Introdução a Machine Lerning
+- [Capitulo 10](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap10) - Microsoft Power BI e Linguagem R
+- [Capitulo 11](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap11) - Introdução à Estatistica Para Data Science - Parte 1
+- [Capitulo 12](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap12) - Introdução à Estatistica Para Data Science - Parte 2
+- [Capitulo 13](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap13) - Microsoft Power BI e Google Analytics
+- [Capitulo 14](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap14) - Microsoft Power BI e Apache Spark
+- [Bonus](https://github.com/elladarte/Power_BI_DataScience/tree/master/Bonus)
