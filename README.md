@@ -13,11 +13,11 @@
 ### Para ver os Dashboards criados ao longo do curso ==> [CLIQUE AQUI](https://github.com/elladarte/DashBoard/tree/master/DashBoards%20DSA)
 
 ## Lista de Conteudos abordados
-- [Capitulo 1](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap01) - Introdução
-- [Capitulo 2](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap02) - Primeiros passos com Power BI Desktop
-- [Capitulo 3](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap03) - Business Intelligence e Web Scraping no Power BI
-- [Capitulo 4](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap04) - Limpeza, Transformação, Séries Temporais, Agregação e Filtros
-- [Capitulo 5](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap05) - Modelagem, Relacionamento e DAX
+- [Capitulo 1 - 2.0](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap01) - Introdução 
+- [Capitulo 2 - 2.0](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap02) - Primeiros passos com Power BI Desktop
+- [Capitulo 3 - 2.0](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap03) - Business Intelligence no Power BI
+- [Capitulo 4 - 2.0](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap04) - Modelagem, Relacionamento e DAX
+- [Capitulo 5 - 2.0](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap05) - Limpeza, Transformação, Séries Temporais, Agregação e Filtros
 - [Capitulo 6](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap06) - Visualização de Dados e Dashboards Interativos
 - [Capitulo 7](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap07) - Microsoft Power BI e Banco de Dados Oracle
 - [Capitulo 8](https://github.com/elladarte/Power_BI_DataScience/tree/master/Cap08) - Microsoft Power BI Online e Power BI Mobile
